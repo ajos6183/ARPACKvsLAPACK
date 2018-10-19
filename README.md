@@ -1,2 +1,2 @@
 # ARPACKvsLAPACK
-Simple Comparison between ARPACK &amp; LAPACK
+Simple Test of the ARPACK &amp; LAPACK libraries.
